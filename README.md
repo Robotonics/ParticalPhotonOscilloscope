@@ -1,4 +1,4 @@
 # ParticalPhotonOscilloscope
 
-photon code in text file
-use with android app provided
+photon code in text file<p>
+use with windows app provided
